@@ -39,42 +39,42 @@
 }
 .tt-svg{
     &::before{
-        content: url('/img/mediabar-tt.svg');
+        content: url('./img/mediabar-tt.svg');
         margin-right: 8px;
         float: left;
     }
 }
 .t-svg{
     &::before{
-        content: url('/img/mediabar-t.svg');
+        content: url('./img/mediabar-t.svg');
         margin-right: 8px;
         float: left;
     }
 }
 .ss-svg{
     &::before{
-        content: url('/img/mediabar-ss.svg');
+        content: url('./img/mediabar-ss.svg');
         margin-right: 8px;
         float: left;
     }
 }
 .ap-svg{
     &::before{
-        content: url('/img/mediabar-ap.svg');
+        content: url('./img/mediabar-ap.svg');
         margin-right: 8px;
         float: left;
     }
 }
 .time-svg{
     &::before{
-        content: url('/img/mediabar-time.svg');
+        content: url('./img/mediabar-time.svg');
         margin-right: 8px;
         float: left;
     }
 }
 .x-svg{
     &::before{
-        content: url('/img/mediabar-x.svg');
+        content: url('./img/mediabar-x.svg');
         margin-right: 8px;
         float: left;
     }
