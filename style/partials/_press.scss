@@ -88,25 +88,25 @@
 }
 .correctnews-svg{
     &::before{
-        content: url('/img/press-correctnews.svg');
+        content: url('./img/press-correctnews.svg');
         float: left;
     }
 }
 .depart-svg{
     &::before{
-        content: url('/img/press-departament.svg');
+        content: url('./img/press-departament.svg');
         float: left;
     }
 }
 .c1-svg{
     &::before{
-        content: url('/img/press-corrections.svg');
+        content: url('./img/press-corrections.svg');
         float: left;
     }
 }
 .roc-svg{
     &::before{
-        content: url('/img/press-crime.svg');
+        content: url('./img/press-crime.svg');
         float: left;
     }
 }
