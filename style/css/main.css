@@ -130,7 +130,7 @@ body {
 
 .header {
   padding: 17px 60px 40px 60px;
-  background: url("./IMAGE.jpg") no-repeat center center scroll;
+  background: url("/project-frontend-recidiviz.io/IMAGE.jpg") no-repeat center center scroll;
   background-size: cover;
   height: 776px;
 }
@@ -626,37 +626,37 @@ body {
 }
 
 .tt-svg::before {
-  content: url("./img/mediabar-tt.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-tt.svg");
   margin-right: 8px;
   float: left;
 }
 
 .t-svg::before {
-  content: url("./img/mediabar-t.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-t.svg");
   margin-right: 8px;
   float: left;
 }
 
 .ss-svg::before {
-  content: url("./img/mediabar-ss.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-ss.svg");
   margin-right: 8px;
   float: left;
 }
 
 .ap-svg::before {
-  content: url("./img/mediabar-ap.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-ap.svg");
   margin-right: 8px;
   float: left;
 }
 
 .time-svg::before {
-  content: url("./img/mediabar-time.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-time.svg");
   margin-right: 8px;
   float: left;
 }
 
 .x-svg::before {
-  content: url("./img/mediabar-x.svg");
+  content: url("/project-frontend-recidiviz.io/img/mediabar-x.svg");
   margin-right: 8px;
   float: left;
 }
@@ -934,22 +934,22 @@ body {
 }
 
 .correctnews-svg::before {
-  content: url("project-frontend-recidiviz.io/img/press-correctnews.svg");
+  content: url("/project-frontend-recidiviz.io/img/press-correctnews.svg");
   float: left;
 }
 
 .depart-svg::before {
-  content: url("project-frontend-recidiviz.io/img/press-departament.svg");
+  content: url("/project-frontend-recidiviz.io/img/press-departament.svg");
   float: left;
 }
 
 .c1-svg::before {
-  content: url("project-frontend-recidiviz.io/img/press-corrections.svg");
+  content: url("/project-frontend-recidiviz.io/img/press-corrections.svg");
   float: left;
 }
 
 .roc-svg::before {
-  content: url("project-frontend-recidiviz.io/img/press-crime.svg");
+  content: url("/project-frontend-recidiviz.io/img/press-crime.svg");
   float: left;
 }
 
